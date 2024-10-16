@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0983-validate-stack-sequences](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0969-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->
