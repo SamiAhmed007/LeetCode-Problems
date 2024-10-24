@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -28,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
