@@ -5,20 +5,20 @@ class Solution:
         province = 0
         n = len(isConnected[0])
 
-        def dfs(isConnected, lst, first, province):
+        def dfs(isConnected, lst, first):
             if len(lst) <= 0:
-                return province
+                return 
             
             lst.remove(first)
             for i in range(n):
                 if isConnected[first-1][i] == 1 and (i+1 != first) and (i+1 in lst):
-                    dfs(isConnected, lst, i+1, province)
+                    dfs(isConnected, lst, i+1)
             return
 
         while (len(lst) > 0):
                 province+=1
-                dfs(isConnected, lst, lst[0], province)
+                dfs(isConnected, lst, lst[0])
         return province
-        # return dfs(isConnected, lst, lst[0], province)
+
 
         
