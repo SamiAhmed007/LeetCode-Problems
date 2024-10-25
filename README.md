@@ -67,11 +67,13 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
