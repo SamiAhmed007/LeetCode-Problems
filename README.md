@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
+| [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
