@@ -36,6 +36,7 @@
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0983-validate-stack-sequences](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 ## Heap (Priority Queue)
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
