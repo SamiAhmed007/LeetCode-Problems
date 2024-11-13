@@ -11,6 +11,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -118,6 +120,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
