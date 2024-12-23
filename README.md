@@ -34,6 +34,7 @@
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## String
 |  |
@@ -104,6 +106,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
