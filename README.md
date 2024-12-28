@@ -90,11 +90,13 @@
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
