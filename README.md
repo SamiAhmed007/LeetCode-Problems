@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0733-flood-fill](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Design
 |  |
@@ -91,6 +93,7 @@
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -111,10 +114,12 @@
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -132,4 +137,16 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0792-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
