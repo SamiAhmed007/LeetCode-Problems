@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -124,6 +126,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
