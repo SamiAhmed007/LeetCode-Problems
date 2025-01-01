@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
@@ -114,6 +115,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
