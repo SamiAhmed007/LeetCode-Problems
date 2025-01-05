@@ -66,6 +66,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0983-validate-stack-sequences](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0983-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -107,6 +108,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
