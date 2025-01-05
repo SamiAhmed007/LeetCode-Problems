@@ -101,6 +101,7 @@
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -168,4 +170,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
