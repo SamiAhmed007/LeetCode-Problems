@@ -175,4 +175,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
