@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -152,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
