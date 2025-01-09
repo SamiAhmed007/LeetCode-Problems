@@ -21,6 +21,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
