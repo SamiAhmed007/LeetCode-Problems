@@ -54,6 +54,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Design
@@ -166,6 +167,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -192,7 +194,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
