@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0189-rotate-array) |
