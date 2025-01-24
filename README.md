@@ -42,6 +42,7 @@
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0792-binary-search) |
 ## Divide and Conquer
