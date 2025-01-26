@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0035-search-insert-position) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/SamiAhmed007/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
